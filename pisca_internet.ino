@@ -10,7 +10,7 @@
 
 #include <ESP8266WiFi.h>
 
-// ---- Configuracao da rede (somente 2.4 GHz) ----
+// ---- Configuracao da rede (somente 2.4 GHz) ---- revisão02
 const char* SSID  = "Convidao iot";
 const char* SENHA = "mescla@1417";
 
