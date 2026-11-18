@@ -11,8 +11,8 @@
 #include <ESP8266WiFi.h>
 
 // ---- Configuracao da rede (somente 2.4 GHz) ----
-const char* SSID  = "SUA_REDE";
-const char* SENHA = "SUA_SENHA";
+const char* SSID  = "Convidao iot";
+const char* SENHA = "mescla@1417";
 
 // ---- LED interno ----
 // No NodeMCU / Wemos D1 mini o LED_BUILTIN e o GPIO2 e acende em LOW
